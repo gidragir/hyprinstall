@@ -21,3 +21,6 @@ sudo systemctl start asusd-user.service
 yay -S --needed --answerclean All --answerdiff None aylurs-gtk-shell microsoft-edge-stable telegram-desktop visual-studio-code-bin grub-customizer bun matugen-bin hyprpicker-git
 
 cp -r * ~/.config/
+
+mkdir -p ~/Pictures/Wallpapers
+cp -r Wallpapers/* ~/Pictures/Wallpapers
