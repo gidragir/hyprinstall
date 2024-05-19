@@ -1,0 +1,8 @@
+*
+**
+!.gitignore
+!install.sh
+!ags
+!ags/**
+!hypr
+!hypr/**
